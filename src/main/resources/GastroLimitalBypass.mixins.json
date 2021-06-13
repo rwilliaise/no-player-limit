@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.alotofletters.gastrolimitalbypass.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "server": [
+    "DedicatedPlayerManagerMixin",
+    "MetadataPlayersMixin"
+  ],
+  "client": [
+    "MultiplayerServerListPingerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
