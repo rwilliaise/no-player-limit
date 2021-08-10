@@ -3,7 +3,7 @@
   "id": "gastrolimitalbypass",
   "version": "${version}",
   "name": "GastroLimitalBypass",
-  "description": "Bypass player limits to get (theoretically) infinite players!",
+  "description": "Bypasses player limit, allowing for more players than the max.",
   "authors": [
     "ALotOfLetters"
   ],
@@ -16,6 +16,6 @@
   ],
   "depends": {
     "fabricloader": ">=0.11.3",
-    "minecraft": "1.17"
+    "minecraft": "1.17.x"
   }
 }
